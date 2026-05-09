@@ -19,7 +19,7 @@ The emphasis is on **load‑bearing structure, kinematics, and safety**, while e
 
 ### Software
 
-- 3D CAD: **CATIA V5 / SolidWorks / Siemens NX**
+- 3D CAD: **CATIA V5 **
 
 ### Core Skills
 
